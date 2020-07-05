@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: "Late Night",
+  name: "LateNight",
   components: {},
 };
 </script>
